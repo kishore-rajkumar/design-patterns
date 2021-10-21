@@ -1,0 +1,2 @@
+Decouple abstraction from its implementation so that the two can vary independently.
+- Remove compile-time binding between Abstraction-Implementation(inheritance) and provide run-time option to choose implementation
